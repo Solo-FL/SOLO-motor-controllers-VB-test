@@ -20,7 +20,7 @@
 
   <ItemGroup>
     <Reference Include="SoloMotorControllers">
-      <HintPath>..\SOLO-motor-controllers-VB-library\SoloMotorControllers\bin\Release\net8.0\SoloMotorControllers.dll</HintPath>
+      <HintPath>\dll\SoloMotorControllers.dll</HintPath>
     </Reference>
   </ItemGroup>
 
