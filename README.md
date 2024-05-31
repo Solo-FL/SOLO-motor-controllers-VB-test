@@ -1,9 +1,9 @@
 # TestSoloLibVB
-this repository consist of a VS project to test Solo VB .net Library
+this repository consist of a VS project to test Solo VB .net with DLL 
 
 ## note
 - Work on VS comunnity 2022
-- need the .\dll\SoloMotorControllers.dll in this folder: bin\xxxx\net8.0-windows 
+- need the SoloMotorControllers.dll in this folder: .\dll\
 
 ## run the deubug/release:
 - GUI > Green arrow 
